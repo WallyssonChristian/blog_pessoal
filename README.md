@@ -5,7 +5,7 @@ Este projeto é uma aplicação web de um blog pessoal, desenvolvido em Java no 
 A aplicação é um blog pessoal com as classes de Postagem, Tema e Usuário e um CRUD completo de cada classe.<br>
 O relacionamento entre as classes é feito com ORM (Object-Relational Mapping) utilizando o framework Hibernate.<br>
 Os dados são persistidos no Banco de Dados Relacional MySQL pelo Spring Data JPA e a segurança da aplicação foi implementada com Spring Security.<br>
-A documentação do backend foi gerada com Swagger.<br>
+A [documentação](https://github.com/WallyssonChristian/blog_pessoal/blob/main/docs/swagger-doc.pdf) do backend foi gerada com Swagger.<br>
 Testes Unitarios foram realizados utilizando Insomnia 8.5.1 e Junit 5.0<br>
 
 ## Tecnologias Utilizadas
